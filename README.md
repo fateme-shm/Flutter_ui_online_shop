@@ -1,18 +1,12 @@
 # online_shop_design
 
-A new Flutter project.
+This repository create for share my 100 days flutter challenge code - day 1 (Ui online_shop)
 
-This Project Written By FATEME SHAMOHAMMADI 
+***Pay attention this is just Ui design without any backend code! just to get an idea for your project ***
 
-## Getting Started
+If you have any questions about this project you can contact me with email or my linkedln account https://www.linkedin.com/in/fateme-shamohammadi-62b02920b
 
-This project is a starting point for a Flutter application.
+Good luck guys !
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/97033905/154942684-79f8f7cf-2331-4d49-b8ba-462e49b89109.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
